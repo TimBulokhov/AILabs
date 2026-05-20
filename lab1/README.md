@@ -1,2 +1,5 @@
-# Lab1: Stanford Dogs Classification
-ResNeXt, RAdam, Horizontal/Vertical Flip
+# Лабораторная работа 1
+## Классификация пород собак (Stanford Dogs)
+## Архитектура: ResNeXt
+## Оптимизаторы: Adam, RAdam
+## Аугментации: Horizontal/Vertical Flip
