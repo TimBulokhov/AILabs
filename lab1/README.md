@@ -382,6 +382,9 @@ best_model_scratch.pth
 comparison_results.png
 ```
 
+<img width="1185" height="590" alt="image" src="https://github.com/user-attachments/assets/d21be55c-3f6e-48d4-b530-7c0fafd3b13f" />
+
+
 Сравнение моделей на тестовой выборке Stanford Dogs
 
 На рисунке показано сравнение трех вариантов обучения по метрикам Precision, Recall и F1-score на тестовой выборке Stanford Dogs. Лучший результат получила модель RAdam Fine-tune: Precision - 0.821, Recall - 0.813 и F1-score - 0.809. Adam Fine-tune немного уступает ей, а Scratch Adam показывает значительно более низкое качество, что подтверждает преимущество дообучения модели с предобученными весами.
