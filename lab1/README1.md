@@ -80,7 +80,8 @@
 | ResNeXt-50 | Pretrained (ImageNet) | Adam | 0.8407 | 0.8343 | 0.8319 |
 | **ResNeXt-50** | **Pretrained (ImageNet)** | **RAdam** | **0.8570** | **0.8515** | **0.8484** |
 | ResNeXt-50 | Scratch (Kaiming He) | Adam | 0.0786 | 0.0668 | 0.0462 |
-<img width="1185" height="590" alt="image" src="https://github.com/user-attachments/assets/661a7f7a-8712-4132-9f78-02041b8f8125" />
+<img width="1280" height="634" alt="image" src="https://github.com/user-attachments/assets/8cae37c1-e0e1-4eb4-a07a-4243672c0581" />
+
 
 ---
 
